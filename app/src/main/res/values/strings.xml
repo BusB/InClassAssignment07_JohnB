@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Dino List</string>
+    <string name="first">Name</string>
+    <string name="has_wings">Has wings?</string>
+    <string name="second">Number of legs</string>
+    <string name="submit">Submit</string>
+    <string name="meat">Meat</string>
+    <string name="plants">Plants</string>
+    <string name="diet">Diet</string>
+    <string name="both">Both</string>
+    <string name="app2_name">Describe your Dino</string>
+    <string name="add_dino">Add a Dino</string>
+</resources>
+
